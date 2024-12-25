@@ -7,7 +7,7 @@
 * Charts
 * Conditional Formating
 
-  #Process
+  # Process
    * Step 1: Clean the data and organised in a tabular format.
    * Step 2: Used PivotTables and formulas to summarize and calculate KPIs.
    * Incorporated slicers, filters, and dynamic charts for interactivity.
